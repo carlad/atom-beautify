@@ -356,4 +356,4 @@ and submit a [Pull Request on GitHub](https://help.github.com/articles/using-pul
 
 ## License
 
-[MIT](LICENSE.md) © [Glavin Wiechert](https://github.com/Glavin001)
+[MIT](LICENSE.md) © [Glavin Wiechert](https://github.com/Glavin001).
